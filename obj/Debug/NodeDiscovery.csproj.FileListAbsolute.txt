@@ -1,0 +1,8 @@
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\bin\Debug\NodeDiscovery.exe.config
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\bin\Debug\NodeDiscovery.exe
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\bin\Debug\NodeDiscovery.pdb
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\obj\Debug\NodeDiscovery.csprojResolveAssemblyReference.cache
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\obj\Debug\NodeDiscovery.Properties.Resources.resources
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\obj\Debug\NodeDiscovery.csproj.GenerateResource.Cache
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\obj\Debug\NodeDiscovery.exe
+c:\users\ktoloc\documents\visual studio 2013\Projects\NodeDiscovery\NodeDiscovery\obj\Debug\NodeDiscovery.pdb
